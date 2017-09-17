@@ -1,0 +1,84 @@
+[00:03:10] [Server thread/INFO]: pikkirumpen was blown up by Creeper
+[00:05:49] [Server thread/INFO]: Set the time to 0
+[00:07:38] [Server thread/INFO]: Teleported Rumble_ to pikkirumpen
+[00:07:38] [Server thread/WARN]: Rumble_ moved too quickly! 25.827351932201964,41.0,625.5777383945897
+[00:18:41] [Server thread/INFO]: Set the time to 0
+[00:20:30] [Server thread/INFO]: jokerhakker was slain by Zombie
+[00:20:46] [Server thread/INFO]: Teleported jokerhakker to pikkirumpen
+[00:20:46] [Server thread/WARN]: jokerhakker moved too quickly! 58.86764765629823,-7.0,703.0381319194839
+[00:25:24] [Server thread/INFO]: Set the time to 0
+[00:33:38] [Server thread/INFO]: Set the time to 0
+[00:44:01] [Server thread/INFO]: Set the time to 0
+[00:54:39] [Server thread/INFO]: pikkirumpen was shot by Skeleton
+[00:54:50] [Server thread/INFO]: jokerhakker lost connection: Disconnected
+[00:54:50] [Server thread/INFO]: jokerhakker left the game
+[00:56:26] [User Authenticator #13/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
+[00:56:26] [Server thread/INFO]: jokerhakker[/172.16.0.31:41348] logged in with entity id 640972 at (2315.095553770583, 66.0, 5169.290532099161)
+[00:56:26] [Server thread/INFO]: jokerhakker joined the game
+[00:58:40] [Server thread/INFO]: Teleported pikkirumpen to jokerhakker
+[01:01:18] [Server thread/INFO]: Set the time to 0
+[01:03:38] [Server thread/INFO]: jokerhakker lost connection: Disconnected
+[01:03:38] [Server thread/INFO]: jokerhakker left the game
+[01:03:48] [User Authenticator #14/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
+[01:03:49] [Server thread/INFO]: jokerhakker[/172.16.0.31:41368] logged in with entity id 652667 at (2327.8115486607035, 64.0, 5174.578297516731)
+[01:03:49] [Server thread/INFO]: jokerhakker joined the game
+[01:10:54] [Server thread/INFO]: Set the time to 0
+[01:19:11] [Server thread/INFO]: pikkirumpen has made the advancement [A Seedy Place]
+[01:22:32] [Server thread/INFO]: Set the time to 0
+[01:37:53] [Server thread/INFO]: Set the time to 0
+[01:48:19] [Server thread/INFO]: Set the time to 0
+[01:58:40] [Server thread/INFO]: Set the time to 0
+[02:10:59] [Server thread/INFO]: Teleported jokerhakker to Rumble_
+[02:10:59] [Server thread/WARN]: jokerhakker moved too quickly! -42.425548542590604,-54.0,617.0380321094244
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:10:59] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:12:40] [Server thread/INFO]: Teleported jokerhakker to pikkirumpen
+[02:12:40] [Server thread/WARN]: jokerhakker moved too quickly! 29.432290572520287,49.9375,-643.8298875800328
+[02:12:40] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:12:43] [Server thread/INFO]: Set the time to 0
+[02:15:19] [Server thread/INFO]: jokerhakker has made the advancement [Cover Me With Diamonds]
+[02:15:45] [Server thread/INFO]: pikkirumpen has made the advancement [Cover Me With Diamonds]
+[02:24:34] [Server thread/INFO]: Set the time to 0
+[02:25:04] [Server thread/INFO]: pikkirumpen was blown up by Creeper
+[02:33:56] [Server thread/INFO]: Rumble_ burned to death
+[02:37:45] [Server thread/INFO]: Set the time to 0
+[02:38:21] [Server thread/INFO]: pikkirumpen was shot by Skeleton
+[02:38:37] [Server thread/INFO]: Teleported pikkirumpen to jokerhakker
+[02:38:37] [Server thread/WARN]: pikkirumpen moved too quickly! 48.373380342330165,-3.0,706.5476922219168
+[02:46:54] [Server thread/INFO]: jokerhakker was shot by Skeleton
+[02:47:13] [Server thread/INFO]: pikkirumpen was shot by Skeleton
+[02:49:17] [Server thread/INFO]: Teleported Rumble_ to pikkirumpen
+[03:08:38] [Server thread/INFO]: Set the time to 0
+[03:16:58] [Server thread/INFO]: Rumble_ lost connection: Disconnected
+[03:16:58] [Server thread/INFO]: Rumble_ left the game
+[03:17:10] [Server thread/INFO]: jokerhakker lost connection: Disconnected
+[03:17:10] [Server thread/INFO]: jokerhakker left the game
+[03:18:03] [Server thread/INFO]: pikkirumpen lost connection: Disconnected
+[03:18:03] [Server thread/INFO]: pikkirumpen left the game
+[03:18:12] [Server Shutdown Thread/INFO]: Stopping server
+[03:18:12] [Server Shutdown Thread/INFO]: Saving players
+[03:18:12] [Server Shutdown Thread/INFO]: Saving worlds
+[03:18:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[03:18:12] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_144]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_144]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_144]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_144]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_144]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_144]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_144]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_144]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_144]
+	at nz$2.run(SourceFile:100) [minecraft_server.1.12.1.jar:?]
+[03:18:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[03:18:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
