@@ -1,176 +1,40 @@
-[00:02:16] [Server thread/INFO]: Set the time to 0
-[00:12:33] [Server thread/INFO]: Set the time to 0
-[00:19:09] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[00:19:09] [Server thread/INFO]: jokerhakker left the game
-[00:20:03] [Server thread/INFO]: Rumble_ lost connection: Disconnected
-[00:20:03] [Server thread/INFO]: Rumble_ left the game
-[00:23:16] [Server thread/INFO]: Set the time to 0
-[00:24:18] [User Authenticator #4/INFO]: UUID of player Rumble_ is 00726e16-de14-4eff-a065-1762525b0e0b
-[00:24:18] [Server thread/INFO]: Rumble_[/172.16.0.64:42104] logged in with entity id 63721 at (2969.978662109478, 85.0, 5157.605423459903)
-[00:24:18] [Server thread/INFO]: Rumble_ joined the game
-[00:26:33] [User Authenticator #5/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
-[00:26:33] [Server thread/INFO]: jokerhakker[/172.16.0.35:59074] logged in with entity id 67365 at (2971.5900909898496, 85.0, 5141.445346275552)
-[00:26:33] [Server thread/INFO]: jokerhakker joined the game
-[00:33:41] [Server thread/INFO]: Set the time to 0
-[00:36:12] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[00:36:12] [Server thread/INFO]: jokerhakker left the game
-[00:36:42] [User Authenticator #6/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
-[00:36:42] [Server thread/INFO]: jokerhakker[/172.16.0.35:59166] logged in with entity id 82032 at (2969.5126759724517, 80.0, 5127.380218448614)
-[00:36:42] [Server thread/INFO]: jokerhakker joined the game
-[00:37:06] [User Authenticator #7/INFO]: UUID of player OrangePlus is 52e8b4c3-eebe-41b4-aa39-458b974159b6
-[00:37:06] [Server thread/INFO]: OrangePlus[/172.16.0.33:50737] logged in with entity id 82641 at (-227.5, 80.0, 232.5)
-[00:37:06] [Server thread/INFO]: OrangePlus joined the game
-[00:37:14] [Server thread/INFO]: <jokerhakker> welcome
-[00:39:19] [Server thread/INFO]: <OrangePlus> yoyoyo
-[00:40:37] [Server thread/INFO]: Teleported OrangePlus to pikkirumpen
-[00:40:37] [Server thread/WARN]: OrangePlus moved too quickly! 3185.831968339028,7.0,4933.862823682225
-[00:44:37] [Server thread/INFO]: Set the time to 0
-[00:53:40] [Server thread/INFO]: jokerhakker fell from a high place
-[00:54:02] [Server thread/INFO]: Teleported jokerhakker to pikkirumpen
-[00:54:02] [Server thread/WARN]: jokerhakker moved too quickly! 696.5526920756047,14.0,704.7039881964329
-[00:54:38] [Server thread/INFO]: OrangePlus has made the advancement [Monster Hunter]
-[00:55:42] [Server thread/INFO]: Set the time to 0
-[01:02:20] [Server thread/INFO]: jokerhakker fell from a high place
-[01:03:59] [Server thread/INFO]: jokerhakker was shot by Skeleton
-[01:04:02] [Server thread/INFO]: Set the time to 0
-[01:04:21] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[01:04:42] [Server thread/INFO]: Teleported jokerhakker to pikkirumpen
-[01:04:42] [Server thread/WARN]: jokerhakker moved too quickly! 700.3003143999272,14.0,721.6505838723378
-[01:13:41] [Server thread/INFO]: Teleported pikkirumpen to jokerhakker
-[01:13:41] [Server thread/WARN]: pikkirumpen moved too quickly! 697.1352573319273,7.0,673.469369325273
-[01:14:25] [Server thread/INFO]: Set the time to 0
-[01:18:48] [Server thread/INFO]: jokerhakker fell from a high place
-[01:19:36] [Server thread/INFO]: Teleported jokerhakker to Rumble_
-[01:19:36] [Server thread/WARN]: jokerhakker moved too quickly! 706.3243331763206,22.0,681.540428404548
-[01:25:26] [Server thread/INFO]: pikkirumpen burned to death
-[01:25:38] [Server thread/INFO]: Set the time to 0
-[01:25:48] [Server thread/INFO]: Teleported pikkirumpen to jokerhakker
-[01:25:48] [Server thread/WARN]: pikkirumpen moved too quickly! 713.1172468689915,-4.0,657.8000000119209
-[01:27:06] [Server thread/INFO]: OrangePlus has made the advancement [Stone Age]
-[01:30:47] [Server thread/INFO]: Teleported pikkirumpen to Rumble_
-[01:30:47] [Server thread/WARN]: pikkirumpen moved too quickly! 22.525885064483646,9.0,10.98705760752182
-[01:30:47] [Server thread/INFO]: pikkirumpen was slain by Rumble_
-[01:32:22] [Server thread/INFO]: Teleported pikkirumpen to jokerhakker
-[01:32:22] [Server thread/WARN]: pikkirumpen moved too quickly! 694.592854113107,0.0,689.5282424185662
-[01:33:39] [Server thread/INFO]: Set the time to 0
-[01:34:10] [Server thread/INFO]: Teleported pikkirumpen to OrangePlus
-[01:34:10] [Server thread/WARN]: pikkirumpen moved too quickly! 29.21727475256921,-25.0,51.685712945261
-[01:35:06] [Server thread/INFO]: OrangePlus was slain by Spider
-[01:35:49] [Server thread/INFO]: Teleported OrangePlus to pikkirumpen
-[01:35:49] [Server thread/WARN]: OrangePlus moved too quickly! 3240.753286208017,-25.0,5021.112376362553
-[01:37:40] [Server thread/INFO]: Set the time to 0
-[01:40:08] [Server thread/INFO]: Teleported jokerhakker to pikkirumpen
-[01:40:08] [Server thread/WARN]: jokerhakker moved too quickly! 66.1769762335457,-21.0,104.55038445628725
-[01:48:25] [Server thread/INFO]: Set the time to 0
-[01:59:26] [Server thread/INFO]: Set the time to 0
-[02:03:35] [Server thread/INFO]: Rumble_ fell from a high place
-[02:03:51] [Server thread/INFO]: Teleported Rumble_ to pikkirumpen
-[02:03:51] [Server thread/WARN]: Rumble_ moved too quickly! 747.8000000119209,-16.0,753.4398988611565
-[02:10:06] [Server thread/INFO]: Set the time to 0
-[02:17:40] [Server thread/INFO]: OrangePlus has made the advancement [Acquire Hardware]
-[02:18:22] [Server thread/INFO]: OrangePlus has made the advancement [Isn't It Iron Pick]
-[02:20:24] [Server thread/INFO]: Set the time to 0
-[02:23:39] [Server thread/INFO]: Teleported jokerhakker to Rumble_
-[02:23:39] [Server thread/WARN]: jokerhakker moved too quickly! -71.85071805337657,-35.0,3.2302582729153073
-[02:26:12] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[02:26:12] [Server thread/INFO]: jokerhakker left the game
-[02:26:39] [User Authenticator #8/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
-[02:26:39] [Server thread/INFO]: jokerhakker[/172.16.0.35:59742] logged in with entity id 400073 at (2853.5027104760225, 30.0, 5124.397497443624)
-[02:26:39] [Server thread/INFO]: jokerhakker joined the game
-[02:30:50] [Server thread/INFO]: '+' is not a valid number
-[02:30:55] [Server thread/INFO]: Set the time to 0
-[02:34:12] [Server thread/INFO]: Set the time to 0
-[02:35:15] [Server thread/INFO]: Teleported Rumble_ to pikkirumpen
-[02:35:15] [Server thread/WARN]: Rumble_ moved too quickly! 53.27617168325878,52.58000001311302,16.89683130328922
-[02:39:44] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[02:39:44] [Server thread/INFO]: jokerhakker left the game
-[02:44:39] [Server thread/INFO]: Set the time to 0
-[02:44:55] [User Authenticator #9/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
-[02:44:55] [Server thread/INFO]: jokerhakker[/172.16.0.35:60198] logged in with entity id 517182 at (2854.502741101518, 29.0, 5122.728899744657)
-[02:44:55] [Server thread/INFO]: jokerhakker joined the game
-[02:48:04] [Server thread/INFO]: Teleported pikkirumpen to jokerhakker
-[02:48:04] [Server thread/WARN]: pikkirumpen moved too quickly! -128.93301328730786,-33.0,-112.4058721106594
-[02:48:47] [Server thread/INFO]: Teleported pikkirumpen to OrangePlus
-[02:48:47] [Server thread/WARN]: pikkirumpen moved too quickly! 134.2305264705783,24.0,105.34589840826993
-[02:54:58] [Server thread/WARN]: Horse moved wrongly!
-[02:55:16] [Server thread/INFO]: Set the time to 0
-[02:56:21] [Server thread/INFO]: Rumble_ fell from a high place
-[02:56:35] [Server thread/INFO]: Teleported Rumble_ to pikkirumpen
-[03:06:11] [Server thread/INFO]: Set the time to 0
-[03:16:34] [Server thread/INFO]: Set the time to 0
-[03:26:45] [Server thread/INFO]: Set the time to 0
-[03:37:08] [Server thread/INFO]: Set the time to 0
-[03:47:55] [Server thread/INFO]: Set the time to 0
-[04:00:31] [Server thread/INFO]: Set the time to 0
-[04:04:35] [Server thread/INFO]: Teleported pikkirumpen to OrangePlus
-[04:04:35] [Server thread/WARN]: pikkirumpen moved too quickly! 765.2775290318509,-49.5,803.494411978053
-[04:11:40] [Server thread/INFO]: Set the time to 0
-[04:23:24] [Server thread/INFO]: Set the time to 0
-[04:33:38] [Server thread/INFO]: Set the time to 0
-[04:44:40] [Server thread/INFO]: Set the time to 0
-[04:47:00] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[04:47:24] [Server thread/INFO]: Entity 'jokerhaker' cannot be found
-[04:47:41] [Server thread/INFO]: Teleported jokerhakker to OrangePlus
-[04:47:41] [Server thread/WARN]: jokerhakker moved too quickly! 129.48938351276138,35.0,96.47328510810166
-[04:49:50] [Server thread/INFO]: Teleported Rumble_ to jokerhakker
-[04:49:51] [Server thread/WARN]: Rumble_ moved too quickly! -546.4042288473397,80.0,-853.8338800479542
-[04:53:02] [Server thread/INFO]: Teleported pikkirumpen to Rumble_
-[04:53:02] [Server thread/WARN]: pikkirumpen moved too quickly! -71.88283142208638,22.0,-132.3092335775109
-[04:55:21] [Server thread/INFO]: Set the time to 0
-[05:04:33] [Server thread/INFO]: Set the time to 0
-[05:13:34] [Server thread/INFO]: You must specify which player you wish to perform this action on.
-[05:14:43] [Server thread/INFO]: Teleported Rumble_ to jokerhakker
-[05:14:43] [Server thread/WARN]: Rumble_ moved too quickly! 118.68803600662932,61.0,20.12748986619863
-[05:15:28] [Server thread/INFO]: Set the time to 0
-[05:20:16] [Server thread/INFO]: Teleported pikkirumpen to OrangePlus
-[05:20:16] [Server thread/WARN]: pikkirumpen moved too quickly! -189.4315942325611,-17.0,282.7654537736289
-[05:25:50] [Server thread/INFO]: Set the time to 0
-[05:31:02] [Server thread/INFO]: Teleported Rumble_ to jokerhakker
-[05:31:02] [Server thread/WARN]: Rumble_ moved too quickly! 118.01804909273415,53.5,19.70440381213666
-[05:43:25] [Server thread/INFO]: Set the time to 0
-[05:48:19] [Server thread/INFO]: Set the time to 0
-[05:50:20] [Server thread/INFO]: Teleported Rumble_ to jokerhakker
-[05:50:20] [Server thread/WARN]: Rumble_ moved too quickly! 112.0226587877678,54.0,52.33422978967974
-[05:51:45] [Server thread/INFO]: Set the time to 0
-[06:00:30] [Server thread/INFO]: Teleported pikkirumpen to OrangePlus
-[06:00:30] [Server thread/WARN]: pikkirumpen moved too quickly! -207.3185223804544,-28.0,261.9087187587993
-[06:02:04] [Server thread/INFO]: Set the time to 0
-[06:12:56] [Server thread/INFO]: Set the time to 0
-[06:12:58] [Server thread/WARN]: jokerhakker moved wrongly!
-[06:13:03] [Server thread/WARN]: jokerhakker moved wrongly!
-[06:13:18] [Server thread/WARN]: jokerhakker moved wrongly!
-[06:13:37] [Server thread/WARN]: Horse moved wrongly!
-[06:13:37] [Server thread/WARN]: Horse moved wrongly!
-[06:14:16] [Server thread/WARN]: Horse moved wrongly!
-[06:14:17] [Server thread/WARN]: Horse moved wrongly!
-[06:14:17] [Server thread/WARN]: Horse moved wrongly!
-[06:22:26] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[06:22:26] [Server thread/INFO]: jokerhakker left the game
-[06:22:44] [Server thread/INFO]: Rumble_ lost connection: Disconnected
-[06:22:44] [Server thread/INFO]: Rumble_ left the game
-[06:27:04] [Server thread/INFO]: OrangePlus lost connection: Disconnected
-[06:27:04] [Server thread/INFO]: OrangePlus left the game
-[06:27:14] [Server thread/INFO]: pikkirumpen was slain by Zombie
-[13:30:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25421666ms behind, skipping 508433 tick(s)
-[13:31:33] [Server thread/INFO]: pikkirumpen lost connection: Disconnected
-[13:31:33] [Server thread/INFO]: pikkirumpen left the game
-[13:31:52] [Server Shutdown Thread/INFO]: Stopping server
-[13:31:52] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_144]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_144]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_144]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_144]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_144]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_144]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_144]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_144]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_144]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_144]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_144]
-	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
-[13:31:52] [Server Shutdown Thread/INFO]: Saving players
-[13:31:52] [Server Shutdown Thread/INFO]: Saving worlds
-[13:31:52] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[13:31:52] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[13:31:52] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[00:11:13] [User Authenticator #2/INFO]: UUID of player OrangePlus is 52e8b4c3-eebe-41b4-aa39-458b974159b6
+[00:11:13] [Server thread/INFO]: OrangePlus[/172.16.0.33:51291] logged in with entity id 18942 at (2994.6143728200313, 63.0, 5203.663526563247)
+[00:11:13] [Server thread/INFO]: OrangePlus joined the game
+[00:11:50] [Server thread/INFO]: OrangePlus lost connection: Disconnected
+[00:11:50] [Server thread/INFO]: OrangePlus left the game
+[00:28:35] [User Authenticator #3/INFO]: UUID of player OrangePlus is 52e8b4c3-eebe-41b4-aa39-458b974159b6
+[00:28:35] [Server thread/INFO]: OrangePlus[/172.16.0.33:51321] logged in with entity id 19555 at (3006.1073377957027, 63.0, 5214.2813464307455)
+[00:28:35] [Server thread/INFO]: OrangePlus joined the game
+[00:28:56] [User Authenticator #4/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
+[00:28:56] [Server thread/INFO]: jokerhakker[/172.16.0.35:58314] logged in with entity id 19935 at (2953.762499988079, 85.0, 5170.05925334472)
+[00:28:56] [Server thread/INFO]: jokerhakker joined the game
+[00:32:41] [Server thread/INFO]: OrangePlus lost connection: Disconnected
+[00:32:41] [Server thread/INFO]: OrangePlus left the game
+[00:33:21] [User Authenticator #5/INFO]: UUID of player OrangePlus is 52e8b4c3-eebe-41b4-aa39-458b974159b6
+[00:33:21] [Server thread/INFO]: OrangePlus[/172.16.0.33:51351] logged in with entity id 24749 at (2995.300000011921, 33.0, 5233.8520009464555)
+[00:33:21] [Server thread/INFO]: OrangePlus joined the game
+[00:35:03] [User Authenticator #6/INFO]: UUID of player plumboidass is 74ba7e44-6c49-4608-90d5-5902a0b5d869
+[00:35:04] [Server thread/INFO]: plumboidass[/172.16.0.46:49824] logged in with entity id 27022 at (2270.9346771877836, 26.0, 5168.416442772211)
+[00:35:04] [Server thread/INFO]: plumboidass joined the game
+[01:21:58] [Server thread/INFO]: OrangePlus has made the advancement [Suit Up]
+[01:23:11] [Server thread/INFO]: plumboidass lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[01:23:11] [Server thread/INFO]: plumboidass left the game
+[01:23:37] [Server thread/INFO]: jokerhakker lost connection: Disconnected
+[01:23:37] [Server thread/INFO]: jokerhakker left the game
+[01:25:02] [User Authenticator #7/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
+[01:25:03] [Server thread/INFO]: jokerhakker[/172.16.0.35:58730] logged in with entity id 98652 at (2969.488401189564, 84.5, 5149.648230463374)
+[01:25:03] [Server thread/INFO]: jokerhakker joined the game
+[02:04:42] [Server thread/INFO]: jokerhakker lost connection: Disconnected
+[02:04:42] [Server thread/INFO]: jokerhakker left the game
+[02:05:05] [User Authenticator #8/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
+[02:05:05] [Server thread/INFO]: jokerhakker[/172.16.0.35:58820] logged in with entity id 140795 at (2965.338494432701, 100.0, 5056.58429571545)
+[02:05:05] [Server thread/INFO]: jokerhakker joined the game
+[02:33:21] [Server thread/INFO]: OrangePlus has made the advancement [Diamonds!]
+[03:00:16] [Server thread/INFO]: jokerhakker lost connection: Disconnected
+[03:00:16] [Server thread/INFO]: jokerhakker left the game
+[03:55:25] [Server thread/INFO]: <OrangePlus> t'
+[05:04:30] [Server thread/INFO]: OrangePlus lost connection: Disconnected
+[05:04:30] [Server thread/INFO]: OrangePlus left the game
+[05:07:43] [Server Shutdown Thread/INFO]: Stopping server
+[05:07:43] [Server Shutdown Thread/INFO]: Saving players
