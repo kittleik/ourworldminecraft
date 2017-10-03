@@ -1,40 +1,18 @@
-[00:11:13] [User Authenticator #2/INFO]: UUID of player OrangePlus is 52e8b4c3-eebe-41b4-aa39-458b974159b6
-[00:11:13] [Server thread/INFO]: OrangePlus[/172.16.0.33:51291] logged in with entity id 18942 at (2994.6143728200313, 63.0, 5203.663526563247)
-[00:11:13] [Server thread/INFO]: OrangePlus joined the game
-[00:11:50] [Server thread/INFO]: OrangePlus lost connection: Disconnected
-[00:11:50] [Server thread/INFO]: OrangePlus left the game
-[00:28:35] [User Authenticator #3/INFO]: UUID of player OrangePlus is 52e8b4c3-eebe-41b4-aa39-458b974159b6
-[00:28:35] [Server thread/INFO]: OrangePlus[/172.16.0.33:51321] logged in with entity id 19555 at (3006.1073377957027, 63.0, 5214.2813464307455)
-[00:28:35] [Server thread/INFO]: OrangePlus joined the game
-[00:28:56] [User Authenticator #4/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
-[00:28:56] [Server thread/INFO]: jokerhakker[/172.16.0.35:58314] logged in with entity id 19935 at (2953.762499988079, 85.0, 5170.05925334472)
-[00:28:56] [Server thread/INFO]: jokerhakker joined the game
-[00:32:41] [Server thread/INFO]: OrangePlus lost connection: Disconnected
-[00:32:41] [Server thread/INFO]: OrangePlus left the game
-[00:33:21] [User Authenticator #5/INFO]: UUID of player OrangePlus is 52e8b4c3-eebe-41b4-aa39-458b974159b6
-[00:33:21] [Server thread/INFO]: OrangePlus[/172.16.0.33:51351] logged in with entity id 24749 at (2995.300000011921, 33.0, 5233.8520009464555)
-[00:33:21] [Server thread/INFO]: OrangePlus joined the game
-[00:35:03] [User Authenticator #6/INFO]: UUID of player plumboidass is 74ba7e44-6c49-4608-90d5-5902a0b5d869
-[00:35:04] [Server thread/INFO]: plumboidass[/172.16.0.46:49824] logged in with entity id 27022 at (2270.9346771877836, 26.0, 5168.416442772211)
-[00:35:04] [Server thread/INFO]: plumboidass joined the game
-[01:21:58] [Server thread/INFO]: OrangePlus has made the advancement [Suit Up]
-[01:23:11] [Server thread/INFO]: plumboidass lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[01:23:11] [Server thread/INFO]: plumboidass left the game
-[01:23:37] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[01:23:37] [Server thread/INFO]: jokerhakker left the game
-[01:25:02] [User Authenticator #7/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
-[01:25:03] [Server thread/INFO]: jokerhakker[/172.16.0.35:58730] logged in with entity id 98652 at (2969.488401189564, 84.5, 5149.648230463374)
-[01:25:03] [Server thread/INFO]: jokerhakker joined the game
-[02:04:42] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[02:04:42] [Server thread/INFO]: jokerhakker left the game
-[02:05:05] [User Authenticator #8/INFO]: UUID of player jokerhakker is 6458c5c9-f15f-482e-b5a5-860086d3aba8
-[02:05:05] [Server thread/INFO]: jokerhakker[/172.16.0.35:58820] logged in with entity id 140795 at (2965.338494432701, 100.0, 5056.58429571545)
-[02:05:05] [Server thread/INFO]: jokerhakker joined the game
-[02:33:21] [Server thread/INFO]: OrangePlus has made the advancement [Diamonds!]
-[03:00:16] [Server thread/INFO]: jokerhakker lost connection: Disconnected
-[03:00:16] [Server thread/INFO]: jokerhakker left the game
-[03:55:25] [Server thread/INFO]: <OrangePlus> t'
-[05:04:30] [Server thread/INFO]: OrangePlus lost connection: Disconnected
-[05:04:30] [Server thread/INFO]: OrangePlus left the game
-[05:07:43] [Server Shutdown Thread/INFO]: Stopping server
-[05:07:43] [Server Shutdown Thread/INFO]: Saving players
+[22:42:52] [Server thread/INFO]: Loading properties
+[22:42:52] [Server thread/INFO]: Default game type: SURVIVAL
+[22:42:52] [Server thread/INFO]: Generating keypair
+[22:42:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:42:52] [Server thread/INFO]: Using epoll channel type
+[22:42:52] [Server thread/INFO]: Preparing level "world"
+[22:42:52] [Server thread/INFO]: Loaded 488 advancements
+[22:42:52] [Server thread/INFO]: Preparing start region for level 0
+[22:42:54] [Server thread/INFO]: Preparing spawn area: 55%
+[22:42:54] [Server thread/INFO]: Done (1.629s)! For help, type "help" or "?"
+[22:43:00] [User Authenticator #1/INFO]: UUID of player pikkirumpen is 3c518339-d706-4ca2-85d8-41f516694427
+[22:43:00] [Server thread/INFO]: pikkirumpen[/172.16.0.42:43808] logged in with entity id 175 at (2248.0426791930618, 72.5, 4438.024754089076)
+[22:43:01] [Server thread/INFO]: pikkirumpen joined the game
+[22:44:13] [Server thread/INFO]: pikkirumpen lost connection: Disconnected
+[22:44:13] [Server thread/INFO]: pikkirumpen left the game
+[22:44:17] [Server Shutdown Thread/INFO]: Stopping server
+[22:44:17] [Server Shutdown Thread/INFO]: Saving players
+[22:44:17] [Server Shutdown Thread/INFO]: Saving worlds
